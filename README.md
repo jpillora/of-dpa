@@ -14,7 +14,9 @@ on Broadcom switch devices
 Documentation
 =============
 
-Detailed documentation can be found at `doc/html/index.html`.
+Detailed documentation can be found at:
+
+## http://Broadcom-Switch.github.io/of-dpa/doc/html
 
 Legal
 =====
